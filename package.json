@@ -1,0 +1,16 @@
+{
+  "name": "vozviva",
+  "version": "1.0.0",
+  "description": "\"VozViva, o viva-voz do cidadão\" - Ampliar as vozes dos que estão à margem ou não são ouvidos regularmente, dando espaço para suas demandas e ideias.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
